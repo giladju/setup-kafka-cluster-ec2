@@ -8,10 +8,10 @@ galaxy_info:
   platforms:
   - name: Amazon  
     versions:
-    - "2017.03"
+    - 2017.03
 
   galaxy_tags:
     - kafka 
-    - cluster`
+    - cluster
 
 dependencies: []
